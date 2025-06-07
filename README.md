@@ -66,15 +66,6 @@ All tutorials use a sample e-commerce dataset (2019–2024) with products, price
 
 ---
 
-## 💬 About Me
-Hi! I’m **Astrid Villalobos**, an economist and business analyst passionate about simplifying data for decision-making.  
-I created this series to help others learn Excel through practical, real-world examples.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/villalobosastrid/))    
-📧 [astrid.cvr@gmail.com]
-
----
-
 ## 📌 License
 This content is shared under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).  
 Feel free to use, adapt, and share it for learning purposes. Attribution is appreciated 🙏
