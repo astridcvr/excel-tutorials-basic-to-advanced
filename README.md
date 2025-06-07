@@ -1,3 +1,11 @@
+## 💬 About Me
+Hi! I’m **Astrid Villalobos**, an economist and business analyst passionate about simplifying data for decision-making.  
+I created this series to help others learn Excel through practical, real-world examples.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/villalobosastrid/))    
+📧 [astrid.cvr@gmail.com]
+
+
 # Excel Tutorials: Basic to Advanced 🚀
 
 Welcome to my Excel learning series!  
